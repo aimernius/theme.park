@@ -1,6 +1,6 @@
 #!/bin/bash
 TYPE="retro-terminal"
-THEME="green.css"
+THEME="white.css"
 DOMAIN="aimernius.github.io"
 SCHEME="https"
 ADD_JS="true"
